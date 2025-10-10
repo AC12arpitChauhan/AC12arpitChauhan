@@ -1,4 +1,4 @@
-![Header GIF](https://raw.githubusercontent.com/AC12arpitChauhan/AC12arpitChauhan/main/download.png)
+![Header GIF](https://raw.githubusercontent.com/AC12arpitChauhan/AC12arpitChauhan/main/header.png)
 
 <!-- Profile README for Arpit Chauhan -->
 
