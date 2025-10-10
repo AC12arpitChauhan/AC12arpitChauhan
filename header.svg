@@ -9,7 +9,7 @@
         }
 
         .text {
-          width: 9ch;
+          width: 25ch;
           animation: typing 1.5s steps(12), blink .5s step-end infinite alternate;
           white-space: nowrap;
           overflow: hidden;
