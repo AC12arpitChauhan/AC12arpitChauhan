@@ -24,66 +24,75 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody>
-    <tr>
-      <td width="33.33%" rowspan="2" colspan="2">
-        <img src="https://placehold.co/600x600/1D1F21/FFFFFF" alt="Component 1" width="100%">
-      </td>
-      <td width="33.33%" colspan="2">
-        <img src="https://placehold.co/600x300/3498DB/FFFFFF" alt="Component 2" width="100%">
-      </td>
-      <td width="33.33%" colspan="2">
-        <img src="https://placehold.co/600x300/F1C40F/FFFFFF" alt="Component 3" width="100%">
-      </td>
-    </tr>
+# Bento Grid Layout
 
-    <tr>
-      <td width="16.66%" colspan="1">
-        <img src="https://placehold.co/300x300/9B59B6/FFFFFF" alt="Component 4" width="100%">
-      </td>
-      <td width="16.66%" colspan="1">
-        <img src="https://placehold.co/300x300/E74C3C/FFFFFF" alt="Component 5" width="100%">
-      </td>
-      <td width="33.33%" colspan="2">
-        <img src="https://placehold.co/600x300/E67E22/FFFFFF" alt="Component 6" width="100%">
-      </td>
-    </tr>
+<div style="display: grid; grid-template-columns: repeat(12, 1fr); grid-template-rows: repeat(12, 1fr); gap: 10px; width: 100%; height: 600px; background: #0a0a0a; padding: 15px;">
+  
+  <!-- Item 1: Codecov coverage -->
+  <div style="grid-column: 1 / 5; grid-row: 1 / 4; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px;"></div>
+  
+  <!-- Item 2: CircleCI builds -->
+  <div style="grid-column: 5 / 7; grid-row: 1 / 3; background: #1a1a1a; border-radius: 12px;"></div>
+  
+  <!-- Item 3: Docker images -->
+  <div style="grid-column: 7 / 9; grid-row: 1 / 3; background: #0db7ed; border-radius: 12px;"></div>
+  
+  <!-- Item 4: Figma design -->
+  <div style="grid-column: 9 / 11; grid-row: 1 / 4; background: linear-gradient(180deg, #ff7262 0%, #a259ff 50%, #1abcfe 100%); border-radius: 12px;"></div>
+  
+  <!-- Item 5: Notion alias -->
+  <div style="grid-column: 11 / 13; grid-row: 1 / 4; background: #f7f6f3; border-radius: 12px;"></div>
+  
+  <!-- Item 6: Steam ID -->
+  <div style="grid-column: 1 / 3; grid-row: 4 / 6; background: #171a21; border-radius: 12px;"></div>
+  
+  <!-- Item 7: Discord username -->
+  <div style="grid-column: 3 / 5; grid-row: 4 / 6; background: #5865f2; border-radius: 12px;"></div>
+  
+  <!-- Item 8: GitHub Pages (CENTER - LARGEST) -->
+  <div style="grid-column: 5 / 9; grid-row: 3 / 7; background: linear-gradient(135deg, #667eea 0%, #f093fb 50%, #4facfe 100%); border-radius: 12px;"></div>
+  
+  <!-- Item 9: Proton Mail -->
+  <div style="grid-column: 9 / 11; grid-row: 4 / 6; background: #6d4aff; border-radius: 12px;"></div>
+  
+  <!-- Item 10: Python Package Index -->
+  <div style="grid-column: 11 / 13; grid-row: 4 / 6; background: linear-gradient(135deg, #ffd43b 0%, #306998 100%); border-radius: 12px;"></div>
+  
+  <!-- Item 11: Pinterest pins -->
+  <div style="grid-column: 1 / 5; grid-row: 6 / 8; background: #e60023; border-radius: 12px;"></div>
+  
+  <!-- Item 12: Maven Central Repository -->
+  <div style="grid-column: 9 / 11; grid-row: 6 / 9; background: #944aff; border-radius: 12px;"></div>
+  
+  <!-- Item 13: Gradle Repository -->
+  <div style="grid-column: 11 / 13; grid-row: 6 / 9; background: #02303a; border-radius: 12px;"></div>
+  
+  <!-- Item 14: Layers showcase -->
+  <div style="grid-column: 1 / 5; grid-row: 8 / 10; background: #2d2d2d; border-radius: 12px;"></div>
+  
+  <!-- Item 15: LinkedIn profile -->
+  <div style="grid-column: 5 / 9; grid-row: 7 / 10; background: #0077b5; border-radius: 12px;"></div>
 
-    <tr>
-      <td width="16.66%" colspan="1">
-        <img src="https://placehold.co/300x300/2ECC71/FFFFFF" alt="Component 7" width="100%">
-      </td>
-      <td width="16.66%" colspan="1">
-        <img src="https://placehold.co/300x300/1ABC9C/FFFFFF" alt="Component 8" width="100%">
-      </td>
-      <td width="66.66%" rowspan="2" colspan="4">
-        <img src="https://placehold.co/1200x600/34495E/FFFFFF" alt="Component 9 (Centerpiece)" width="100%">
-      </td>
-    </tr>
+</div>
 
-    <tr>
-      <td width="33.33%" colspan="2">
-        <img src="https://placehold.co/600x300/7F8C8D/FFFFFF" alt="Component 10" width="100%">
-      </td>
-      </tr>
-    
-    <tr>
-      <td width="33.33%" colspan="2">
-        <img src="https://placehold.co/600x300/D35400/FFFFFF" alt="Component 11" width="100%">
-      </td>
-      <td width="16.66%" colspan="1">
-        <img src="https://placehold.co/300x300/C0392B/FFFFFF" alt="Component 12" width="100%">
-      </td>
-      <td width="16.66%" colspan="1">
-        <img src="https://placehold.co/300x300/8E44AD/FFFFFF" alt="Component 13" width="100%">
-      </td>
-       <td width="16.66%" colspan="1">
-        <img src="https://placehold.co/300x300/2980B9/FFFFFF" alt="Component 14" width="100%">
-      </td>
-       <td width="16.66%" colspan="1">
-        <img src="https://placehold.co/300x300/27AE60/FFFFFF" alt="Component 15" width="100%">
-      </td>
-    </tr>
-  </tbody>
-</table>
+## Grid Layout Breakdown
+
+- **12x12 Grid System**: Creates flexibility for complex layouts
+- **Item Dimensions** (column / row spans):
+  1. 4x3 (tall rectangle)
+  2. 2x2 (square)
+  3. 2x2 (square)
+  4. 2x3 (tall rectangle)
+  5. 2x3 (tall rectangle)
+  6. 2x2 (square)
+  7. 2x2 (square)
+  8. **4x4 (CENTER - largest square)**
+  9. 2x2 (square)
+  10. 2x2 (square)
+  11. 4x2 (wide rectangle)
+  12. 2x3 (tall rectangle)
+  13. 2x3 (tall rectangle)
+  14. 4x2 (wide rectangle)
+  15. 4x3 (wide rectangle)
+
+Perfect bento grid with varied sizes creating visual interest!
