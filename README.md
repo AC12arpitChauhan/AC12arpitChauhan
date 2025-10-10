@@ -7,7 +7,7 @@
 </div>
 
 
-
+![Header GIF](https://raw.githubusercontent.com/AC12arpitChauhan/AC12arpitChauhan/userGIF.gif)
 
 <!-- Profile README for Arpit Chauhan -->
 
