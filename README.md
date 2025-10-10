@@ -1,18 +1,9 @@
-
-
-<div align="center">
- <a class="link" href="https://github.com/AC12arpitChauhan/AC12arpitChauhan/header.svg">
-  <img class="image" src="header.svg" alt="Click to see the source">
- </a>
-</div>
-
-
 ![Header GIF](https://raw.githubusercontent.com/AC12arpitChauhan/AC12arpitChauhan/main/download.png)
 
 <!-- Profile README for Arpit Chauhan -->
 
 <!-- <h1 align="center">👋 Hey, I'm Arpit Chauhan</h1> -->
-
+<h1 align="center">👋 Hey, I'm Arpit Chauhan</h1>
 <h4 align="center">IIIT Bhopal '27 | Full-Stack Developer | DevOps enthusiast | Vice-President @ Axios, IIIT Bhopal</h3>
 
 <!-- <p align="center">
