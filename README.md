@@ -72,14 +72,6 @@ A feature-rich food delivery platform enabling users to browse, order, and manag
 
 ---
 
-<!-- <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AC12arpitChauhan&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AC12arpitChauhan&layout=compact&theme=radical" />
-</p> -->
-
-
----
-
 ## 🧑‍🤝‍🧑 Roles & Communities  
 
 - 🎓 **Vice-President** @ Axios Club, IIIT Bhopal (2025)  
