@@ -71,6 +71,7 @@ A feature-rich food delivery platform enabling users to browse, order, and manag
 **Stack:** MERN Stack (MongoDB, Express, React, Node)  
 
 ---
+ <img src="https://visitor-badge.laobi.icu/badge?page_id=AC12arpitChauhan.AC12arpitChauhan&"  />
 
 ## 🧑‍🤝‍🧑 Roles & Communities  
 
