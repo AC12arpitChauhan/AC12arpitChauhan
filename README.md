@@ -23,7 +23,7 @@ Having mastered the fundamentals of **Full-Stack Development** and **DevOps**, I
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpit-chauhan-a05113284/) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/arpit_chauhan0770/)
-[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1GjKhHNBqMfLXtNHlBejvYLNrMmJaBuv5/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-%230077B5.svg?logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1rVyBPY6tQq7bO4sWWNUwVoEddDm6Zv4U/view?usp=sharing)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AC12arpitChauhan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/arpitchauhanac07/) 
 
