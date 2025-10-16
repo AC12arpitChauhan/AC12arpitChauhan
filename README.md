@@ -54,9 +54,9 @@ Having mastered the fundamentals of **Full-Stack Development** and **DevOps**, I
 
 ## 💼 Featured Projects  
 
-### 🧠 [Mstry Message](https://mstry-message-umber.vercel.app/)  
+### 🧠 [True-Feedback](https://true-feedback-umber.vercel.app/)  
 AI-powered anonymous feedback platform that analyzes tone and offers smart recommendations.  
-**Stack:** Next.js, MongoDB, Auth.js, OpenAI API  
+**Stack:** Next.js, MongoDB, Auth.js, Gemini API, Vercel AI SDK
 
 ---
 
